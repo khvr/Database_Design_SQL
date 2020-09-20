@@ -4,7 +4,7 @@
 
 | Name | NEU ID | Email Address |
 | --- | --- | --- |
-| Harsha vardhanram kalyanaraman | 001472407 | kalyanaraman.ha@husky.neu.edu
+| Harsha vardhanram kalyanaraman | 001472407 | kalyanaraman.ha@northeastern.edu
 
 ## Technology Stack
 
